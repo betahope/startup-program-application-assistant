@@ -10,6 +10,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [2.0.0] - 2026-04-20
+
+Skill renamed from `startup-program-application-guide` to `startup-program-application-assistant`.
+
+### Changed
+- Skill identifier (`name:` field in `SKILL.md` frontmatter) is now `startup-program-application-assistant`.
+- Install folder name is now `startup-program-application-assistant`. Existing users on v1.0.0 should remove the old `startup-program-application-guide` folder from their skills directory and install this version in its place.
+- Title heading in `SKILL.md` and `README.md` updated to "Startup Program Application Assistant".
+
+### Added
+- `CLAUDE.md` with architecture notes, editing conventions, and release workflow for future Claude Code sessions working on this repo.
+
+---
+
 ## [1.0.0] - 2026-04-19
 
 Initial public release.

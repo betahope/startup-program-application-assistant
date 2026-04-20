@@ -1,4 +1,4 @@
-# Startup Program Application Guide
+# Startup Program Application Assistant
 
 A Claude skill that helps founders write stronger applications to startup programs, accelerators, and pre-accelerators.
 
@@ -51,25 +51,25 @@ It also includes a bundled humanizer guide to strip AI writing patterns out of a
 ### On Claude.ai (Pro, Team, or Enterprise plans)
 
 1. Download this repository as a ZIP file (click the green "Code" button at the top of this page, then "Download ZIP").
-2. Unzip it on your computer. You should see a folder called `startup-program-application-guide` with `SKILL.md` inside it.
+2. Unzip it on your computer. You should see a folder called `startup-program-application-assistant` with `SKILL.md` inside it.
 3. Go to [claude.ai](https://claude.ai). Open **Settings > Capabilities > Skills**.
-4. Click **Upload skill**. Select the `startup-program-application-guide` folder.
+4. Click **Upload skill**. Select the `startup-program-application-assistant` folder.
 5. The skill is now active. Claude will use it automatically whenever you ask for help with a startup program application.
 
 Note: Skills are personal to your Claude account. If you want teammates to use it too, they need to install it themselves.
 
 ### In Claude Code
 
-Copy the `startup-program-application-guide` folder into your personal skills directory:
+Copy the `startup-program-application-assistant` folder into your personal skills directory:
 
 ```bash
-cp -r startup-program-application-guide ~/.claude/skills/
+cp -r startup-program-application-assistant ~/.claude/skills/
 ```
 
 Or into a project-specific skills directory if you want it scoped to one project:
 
 ```bash
-cp -r startup-program-application-guide /your-project/.claude/skills/
+cp -r startup-program-application-assistant /your-project/.claude/skills/
 ```
 
 ---
@@ -93,7 +93,7 @@ The skill will pick the right mode (critique, draft, or coach) based on what you
 ## What is inside
 
 ```
-startup-program-application-guide/
+startup-program-application-assistant/
 ├── SKILL.md                    (main skill file)
 └── references/
     ├── questions.md            (common application questions, with examples)

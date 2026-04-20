@@ -1,9 +1,9 @@
 ---
-name: startup-program-application-guide
+name: startup-program-application-assistant
 description: Help founders write stronger applications to startup programs, accelerators, and pre-accelerators. Use this whenever a founder is drafting, reviewing, critiquing, or getting unstuck on any accelerator or incubator application question, or working on a founder video or demo video for an application. Triggers include requests to help answer an application question, review an application draft, figure out what to say about traction, describe a problem or solution for an accelerator, record a founder or team video, plan a demo video, or any mention of an application to a startup program. Use it even when the founder does not name a specific program, as long as the context is a startup program application. Covers the common application questions (problem, solution, team, traction, business model, target audience, competitors, competitive advantage, timing, customer acquisition, milestones), founder and demo video guidance, plus program-specific notes where available.
 ---
 
-# Startup Program Application Guide
+# Startup Program Application Assistant
 
 A skill for helping founders write stronger applications to startup programs, accelerators, and pre-accelerators.
 
