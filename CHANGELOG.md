@@ -10,6 +10,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [2.0.2] - 2026-04-20
+
+### Added
+- "spaa" shorthand now triggers the skill. Typing it anywhere in a message loads the assistant, alongside the existing natural-language triggers. Noted in `SKILL.md` frontmatter and `README.md` examples.
+
+---
+
 ## [2.0.1] - 2026-04-20
 
 ### Fixed

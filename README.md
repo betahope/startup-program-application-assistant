@@ -85,6 +85,7 @@ Examples that will trigger the skill:
 - "I am stuck on the traction question. Can you coach me through it?"
 - "Help me plan my founder video."
 - "What should my demo video cover?"
+- "spaa" — typing this shorthand anywhere in a message also loads the skill.
 
 The skill will pick the right mode (critique, draft, or coach) based on what you ask.
 
