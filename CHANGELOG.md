@@ -10,6 +10,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [2.0.1] - 2026-04-20
+
+### Fixed
+- Updated install instructions in `README.md` and `CLAUDE.md` to reflect Claude.ai's new navigation. Skills are now under **Customize > Skills** (accessed from the top of the sidebar), not the old **Settings > Capabilities > Skills** path.
+
+---
+
 ## [2.0.0] - 2026-04-20
 
 Skill renamed from `startup-program-application-guide` to `startup-program-application-assistant`.

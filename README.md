@@ -52,7 +52,7 @@ It also includes a bundled humanizer guide to strip AI writing patterns out of a
 
 1. Download this repository as a ZIP file (click the green "Code" button at the top of this page, then "Download ZIP").
 2. Unzip it on your computer. You should see a folder called `startup-program-application-assistant` with `SKILL.md` inside it.
-3. Go to [claude.ai](https://claude.ai). Open **Settings > Capabilities > Skills**.
+3. Go to [claude.ai](https://claude.ai). Open **Customize** from the top of the sidebar, then select **Skills**.
 4. Click **Upload skill**. Select the `startup-program-application-assistant` folder.
 5. The skill is now active. Claude will use it automatically whenever you ask for help with a startup program application.
 

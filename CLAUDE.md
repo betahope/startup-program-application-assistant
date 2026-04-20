@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-This repository **is a Claude Skill**, not an application. There is no code, no build, no test runner, no lint. The deliverable is the markdown content itself, which end users install into `~/.claude/skills/` (Claude Code) or upload via Settings > Capabilities > Skills (claude.ai). "Running" the skill means Claude loads `SKILL.md` when a conversation matches the frontmatter `description` trigger.
+This repository **is a Claude Skill**, not an application. There is no code, no build, no test runner, no lint. The deliverable is the markdown content itself, which end users install into `~/.claude/skills/` (Claude Code) or upload via Customize > Skills (claude.ai). "Running" the skill means Claude loads `SKILL.md` when a conversation matches the frontmatter `description` trigger.
 
 Practical consequence: when editing files here, treat every change as a content/prompt change that will be read by a future Claude instance mid-conversation with a founder. Precision of wording matters more than it would in code — ambiguous phrasing produces bad behavior in the wild.
 
