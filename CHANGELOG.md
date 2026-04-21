@@ -10,6 +10,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [2.0.3] - 2026-04-21
+
+### Fixed
+- Shortened the `description` field in `SKILL.md` frontmatter to stay under the 1024-character limit enforced by the skill loader. All trigger coverage is preserved (modes, video work, "spaa" shorthand, common question list, program-specific notes).
+
+---
+
 ## [2.0.2] - 2026-04-20
 
 ### Added
