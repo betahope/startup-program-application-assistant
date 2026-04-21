@@ -10,6 +10,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [3.1.0] - 2026-04-21
+
+Additions drawn from a consolidated YC application guide, layered onto existing sections where the guidance applies broadly. Program-specific items stayed in the YC section.
+
+### Added
+- "Inverted pyramid" framing in the "be clear and concise" non-negotiable in `SKILL.md`: structure answers like a news article, not an academic essay. Start with the conclusion, follow with the proof.
+- "Bad reasons to apply" section in `SKILL.md` covering three founder profiles where a VC-backed program is likely the wrong fit (no long-term commitment, opposed to the VC model, traditional non-tech small business).
+- Concrete venture-scale anchor in `references/questions.md` (how do you make money): roughly $100M+ annual revenue or a potential billion-dollar outcome, for VC-backed programs.
+- "Why will you beat the natural monopolies in this space?" added to the competitive-advantage prompt list in `references/questions.md`.
+- Definition and examples of "tar pit ideas" in the YC section of `references/program-specific.md` (music discovery, restaurant discovery, finding new friends, dating apps with a twist, social networks for a specific niche), alongside the existing note on odds.
+- YC-specific stat in `references/program-specific.md`: roughly 40% of accepted companies are idea-stage, added to the "we are too early" trap.
+
+---
+
 ## [3.0.0] - 2026-04-21
 
 Skill renamed from `startup-program-application-assistant` to `startup-application-coach`.

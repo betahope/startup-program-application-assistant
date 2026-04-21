@@ -19,6 +19,16 @@ Which mode to use depends on what the founder asks for. If they say "review this
 
 Always ask which program they are applying to if you do not know. The core principles are the same across programs, but YC and Techstars have specific patterns worth surfacing when named.
 
+## Bad reasons to apply
+
+Most accelerators (YC, Techstars, and similar) are VC-backed and expect founders to build toward a venture-scale outcome. The skill can help anyone write a clearer application. But if the founder tells you they fit any of the following, flag the mismatch before helping them draft:
+
+- They do not intend to work on the company long-term.
+- They are opposed to the venture capital model.
+- They are building a traditional, non-tech small business.
+
+These are not universal disqualifiers. Some pre-accelerators, regional programs, or nonprofit programs do not require any of the above. For VC-backed programs, surfacing the mismatch early saves the founder time.
+
 ## Always remind the founder to review
 
 Every response from this skill, whether a critique, a draft, or coaching output, must remind the founder (gently, not preachy) that they need to review what the skill produces before submitting. AI is not perfect. The skill can miss context, misread the question, get a fact wrong, or produce something that sounds right but does not match how the founder actually talks about their business. The founder is accountable for the final answer, not the skill.
@@ -87,6 +97,8 @@ These apply to every answer, every program, every time.
 Clarity is the single biggest thing that separates strong applications from weak ones. Application readers have seen a thousand applications. They read fast. If they cannot understand your answer on the first pass, they move on. A good answer can be understood in a single read.
 
 Lead with the answer in the first sentence. No wind-up. No context-setting. No "we believe that". Just the answer. Everything else supports it.
+
+Structure each answer like a news article, not an academic essay. Start with the conclusion, follow with the proof. If there is $500k in revenue to mention, that belongs in the first sentence, not the last.
 
 After drafting, cut every word that does not earn its place. Print it out and cross out what is not needed. You will usually cut 30 to 50 percent.
 

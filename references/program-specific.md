@@ -25,7 +25,9 @@ The order they read matters:
 
 If you do not have technical talent, use YC's co-founder matching. This is a real path in; multiple founders in recent batches met through it.
 
-**Teams working on unlaunched "tarpit ideas" without technical founders have the lowest odds.** That is a fact. If this is you, either add technical talent, launch something to generate evidence of demand, or both.
+**Tar pit ideas.** These are ideas that sound appealing and get pitched to YC over and over, but have a graveyard of failed attempts behind them. Classic examples: music discovery, restaurant discovery, finding new friends, dating apps with a twist, social networks for a specific niche. If the founder is applying with a tar pit idea, they need either a specific non-obvious insight about why their approach breaks the pattern, or real evidence of demand (users, revenue, retention). Without one of those, the reader assumes the founder does not know the history of the space.
+
+**Teams working on unlaunched tar pit ideas without technical founders have the lowest odds.** That is a fact. If this is the founder, they either need to add technical talent, launch something to generate evidence of demand, or both.
 
 **Evidence of seriousness.** Have founders left their jobs? Have they applied multiple times with more progress each time? Are they using their own product? These signals tell YC you are committed, not dabbling.
 
@@ -82,7 +84,7 @@ Internalising and addressing that feedback in a future application genuinely hel
 
 ### YC traps to avoid
 
-- **Saying "we are too early".** No such thing. Many YC companies pivoted after getting in.
+- **Saying "we are too early".** No such thing. YC reports roughly 40% of accepted companies are idea-stage. Many YC companies pivoted after getting in.
 - **Saying "we are too far along".** YC funds companies with $1M+ raised, $500K+ ARR, and companies with no code written.
 - **Trusting people who claim they can help you get into YC.** They are scammers. YC decisions are made by reading forms. No warm intro or insider connection helps.
 - **Listening to people who discourage you from applying.** Ask them if they will invest themselves. If not, their opinion is cheap.

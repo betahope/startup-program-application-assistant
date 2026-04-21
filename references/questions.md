@@ -105,6 +105,8 @@ For each question: what it is really asking, what good looks like, what to avoid
 - A bottom-up TAM calculation (see below)
 - Evidence that the market is big enough to support a venture-scale outcome
 
+**How big is "big enough"?** For VC-backed programs, readers are looking for a path to roughly $100M+ in annual revenue or a potential billion-dollar outcome. The bottom-up TAM should show how the business could realistically reach that scale, not just assert it.
+
 **What to avoid:**
 - Top-down TAM numbers pulled from consultant reports ("the global X market is $X billion")
 - Answering only "how we make money" without "how much we could make"
@@ -192,6 +194,7 @@ The more specific, the better. This is your Ideal Customer Profile.
 - What makes you 80% cheaper, or 4x faster?
 - What counterintuitive approach are you taking that is actually right?
 - What is hard for a competitor to replicate?
+- Why will you beat the natural monopolies in this space?
 - Fill in the blank: "We are the only company in the world that _____ for our customers."
 
 ---
