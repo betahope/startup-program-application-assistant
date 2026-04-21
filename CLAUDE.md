@@ -44,13 +44,13 @@ Follows [Keep a Changelog](https://keepachangelog.com/) + SemVer, per `CHANGELOG
 - **MINOR** — new content (new questions, programs, reference files).
 - **PATCH** — fixes, clarifications, typos.
 
-When making a release-worthy change, add a dated entry to `CHANGELOG.md` under the new version heading. Current released version: `2.0.2` (2026-04-20).
+When making a release-worthy change, add a dated entry to `CHANGELOG.md` under the new version heading. Current released version: `3.0.0` (2026-04-21).
 
 ## Testing changes
 
 There is no automated test. To verify a change:
 
-1. Install locally: `cp -r . ~/.claude/skills/startup-program-application-assistant/` (or symlink).
+1. Install locally: `cp -r . ~/.claude/skills/startup-application-coach/` (or symlink).
 2. Start a new Claude Code session and send a prompt that should trigger the skill (e.g. "help me critique my YC problem answer"). Confirm the skill loads and behaves as intended.
 3. For reference-file changes, use a prompt that forces that reference to load (e.g. naming Techstars for `program-specific.md`).
 

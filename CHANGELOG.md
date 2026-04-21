@@ -10,6 +10,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [3.0.0] - 2026-04-21
+
+Skill renamed from `startup-program-application-assistant` to `startup-application-coach`.
+
+### Changed
+- Skill identifier (`name:` field in `SKILL.md` frontmatter) is now `startup-application-coach`.
+- Install folder name is now `startup-application-coach`. Existing users should remove the old `startup-program-application-assistant` folder from their skills directory and install this version in its place.
+- Title heading in `SKILL.md` and `README.md` updated to "Startup Application Coach".
+- Shorthand trigger changed from `spaa` to `coach`. Typing "coach" in a startup application context now loads the skill alongside the existing natural-language triggers.
+
+---
+
 ## [2.0.3] - 2026-04-21
 
 ### Fixed
