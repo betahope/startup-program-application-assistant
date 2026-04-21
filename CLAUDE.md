@@ -14,7 +14,7 @@ Single entry point with on-demand references:
 
 - `SKILL.md` — the only file Claude loads automatically when the skill triggers. YAML frontmatter `name` + `description` determines whether the skill fires; everything in `description` is matched against user intent. Keep triggers broad enough to catch indirect phrasings ("help with my YC application") but specific to startup-program applications.
 - `references/questions.md` — loaded by Claude only when the founder is working on a specific application question (problem, solution, team, traction, etc.). Contains weak-vs-strong examples.
-- `references/program-specific.md` — loaded when the founder names YC or Techstars. **Do not add speculative content for programs not already covered** — the skill explicitly instructs Claude to say "program-specific patterns for that one are not in the skill" rather than invent guidance.
+- `references/program-specific.md` — loaded when the founder names YC, Techstars, or a16z Speedrun. **Do not add speculative content for programs not already covered** — the skill explicitly instructs Claude to say "program-specific patterns for that one are not in the skill" rather than invent guidance.
 - `references/video.md` — loaded for founder/team video or demo video work.
 - `references/humanizer.md` — vendored from [github.com/blader/humanizer](https://github.com/blader/humanizer) (MIT). Applied to every draft before presenting. Keep the attribution in README.md and the file itself if updating.
 
@@ -44,7 +44,7 @@ Follows [Keep a Changelog](https://keepachangelog.com/) + SemVer, per `CHANGELOG
 - **MINOR** — new content (new questions, programs, reference files).
 - **PATCH** — fixes, clarifications, typos.
 
-When making a release-worthy change, add a dated entry to `CHANGELOG.md` under the new version heading. Current released version: `3.1.0` (2026-04-21).
+When making a release-worthy change, add a dated entry to `CHANGELOG.md` under the new version heading. Current released version: `3.2.0` (2026-04-21).
 
 ## Testing changes
 
@@ -56,4 +56,4 @@ There is no automated test. To verify a change:
 
 ## Authoritative sources
 
-Content is grounded in published guidance from Paul Graham + Dalton Caldwell (YC) and Andres Barreto (Techstars), plus Charles Hope's layer at Your Startup Advisor. New guidance should either cite these sources or be clearly flagged as Charles Hope's own principles (see the "Additional guidance layered on top" section of `SKILL.md` for the existing convention).
+Content is grounded in published guidance from Paul Graham + Dalton Caldwell (YC), Andres Barreto (Techstars), and a16z Speedrun, plus Charles Hope's layer at Your Startup Advisor. New guidance should either cite these sources or be clearly flagged as Charles Hope's own principles (see the "Additional guidance layered on top" section of `SKILL.md` for the existing convention).

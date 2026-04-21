@@ -6,6 +6,14 @@ For each question: what it is really asking, what good looks like, what to avoid
 
 ---
 
+## Lead with your strongest signal
+
+Before the specific questions, one cross-cutting point that matters everywhere. If you have a signal that carries weight (paying customers, a named partnership, a notable founder credential, an impressive achievement), put it in the first sentence of the answer it belongs to. Reviewers read fast and decide fast. Strong signals buried at the end of an application, or at the end of a long answer, get missed. The order in which you present information is itself a signal about what you think matters.
+
+This is compatible with the inverted-pyramid guidance in `SKILL.md`: lead with the conclusion, follow with the proof. Applied to an answer with multiple pieces of information: lead with the strongest piece, then the rest.
+
+---
+
 ## What is the problem you are solving?
 
 **What it is really asking:** Who is struggling, with what, and why are existing solutions not good enough?

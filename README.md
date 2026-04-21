@@ -14,7 +14,7 @@ When you ask Claude for help with a startup program application, this skill kick
 - **Draft an answer** from scratch based on context you provide
 - **Coach you through** an answer by asking what Claude needs to know, then helping you write
 
-It covers the common application questions (problem, solution, team, traction, business model, target audience, competitors, competitive advantage, timing, customer acquisition, milestones), plus founder video and demo video guidance, plus program-specific notes for Y Combinator and Techstars.
+It covers the common application questions (problem, solution, team, traction, business model, target audience, competitors, competitive advantage, timing, customer acquisition, milestones), plus founder video and demo video guidance, plus program-specific notes for Y Combinator, Techstars, and a16z Speedrun.
 
 The skill works for applications to any startup program. The same principles apply whether you are applying to YC, Techstars, PearX, Character Labs, Canopy, or anything else.
 
@@ -98,7 +98,7 @@ startup-application-coach/
 ├── SKILL.md                    (main skill file)
 └── references/
     ├── questions.md            (common application questions, with examples)
-    ├── program-specific.md     (YC and Techstars specific notes)
+    ├── program-specific.md     (YC, Techstars, and Speedrun specific notes)
     ├── video.md                (founder video and demo video guidance)
     └── humanizer.md            (bundled humanizer guide)
 ```
@@ -138,6 +138,7 @@ Built by Charles Hope at [Your Startup Advisor](https://www.yourstartupadvisor.c
 - Paul Graham, "How to Apply to Y Combinator"
 - Dalton Caldwell, "How to Apply and Succeed at YC"
 - Andres Barreto (Techstars), "Techstars Application Guide"
+- a16z Speedrun, "What We Look for in Applications"
 
 Thanks to these authors for making their advice public. This skill is a compilation and practical application of their guidance, layered with additional principles from Charles Hope's work with over 650 founders and 14+ startup programs.
 

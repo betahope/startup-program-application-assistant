@@ -10,6 +10,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [3.2.0] - 2026-04-21
+
+Additions drawn from a16z Speedrun's published guidance on what they look for in applications, treated as Speedrun's general guideline rather than specific to any one batch.
+
+### Added
+- a16z Speedrun section in `references/program-specific.md` covering cofounder history, the velocity and traction-quality hierarchy, earned insight, idea-maze depth, company-building beyond the product, outsider founders, interview patterns (pithy description, short decks, team chemistry), common mistakes, and commonly missed opportunities.
+- "Lead with your strongest signal" cross-cutting section at the top of `references/questions.md`. Standalone reminder that the order of information inside an answer is itself a signal, and that strong signals buried at the end of an application often go unread.
+- Named drafting frames in the "be clear and concise" non-negotiable in `SKILL.md`: the Minto Pyramid and SCQA. Both complement the existing inverted-pyramid guidance. SCQA for problem-framing, Minto for everything else.
+- a16z Speedrun entry in the program-specific notes bullet list in `SKILL.md`.
+
+---
+
 ## [3.1.0] - 2026-04-21
 
 Additions drawn from a consolidated YC application guide, layered onto existing sections where the guidance applies broadly. Program-specific items stayed in the YC section.

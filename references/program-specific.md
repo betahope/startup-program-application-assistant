@@ -135,6 +135,60 @@ The Techstars guide emphasises two things worth borrowing:
 
 ---
 
+## a16z Speedrun
+
+### How Speedrun reads applications
+
+Speedrun receives many thousands of applications per cycle and advances a small fraction. Reviewers read fast and decide fast. Strong signals that sit at the bottom of an application often go unread. Lead with them.
+
+### What Speedrun specifically weighs
+
+**Cofounder relationships with real history.** Shared history (prior employment, college, projects built together) is a strong signal. Cofounder pairings that formed in the last few months are a weaker signal. If the founders met recently, acknowledge it and show evidence the working relationship is holding up under pressure.
+
+**Velocity paired with traction quality.** Velocity is how fast the team ships, learns, and adjusts. Traction quality is what the market is telling you back. The hierarchy Speedrun pays attention to, from weakest to strongest:
+
+1. Design partners or advisors
+2. Short-term or one-off revenue
+3. Long-term recurring revenue with significant companies
+
+Where you are on the ladder matters. Showing movement up the ladder matters more.
+
+**Earned insight over obvious opportunity.** "We are building X for Y" where X and Y are obvious market categories is a weak signal. An earned insight (something you learned by working in the space, talking to users, or building v1) is a strong signal. If the idea is obvious, the question the reader has is why it has not already been built. Answer it.
+
+**Deep idea-maze exploration.** Speedrun wants to see that you can explain why prior and current attempts at this idea failed or will fail. "We are better designed" is not an explanation. Actual reasons are. The failure modes of music discovery apps, social networks for a specific niche, or dating apps with a twist are well known. If you are entering a crowded category, show you have walked the maze.
+
+**Company-building beyond the product.** Technical founders especially should show they are thinking about first hires, culture, the sales motion for a B2B product, and the fundraising path. A good product with a thin team-building plan reads worse than a good product with a clear company-building plan.
+
+**Outsider founders who do the work.** Outsider founders can win by becoming subject-matter experts the hard way: interviews with operators in the space, real contact with the industry, and validation work. Outsiders who assume expertise without doing the work come across weaker than insiders. Outsiders who have done the work can come across stronger than insiders coasting on credentials.
+
+### What the interview rewards
+
+If invited to an interview, the specific things Speedrun pays attention to:
+
+**Pithy description.** Be able to describe the company in one sentence, and in five minutes. The one-sentence version is compared to a movie trailer: if it does not land, the five-minute version will not save it.
+
+**Short decks.** Five to ten slides, large fonts, one idea per slide. Dense slides read as a sign the founder cannot compress the thing.
+
+**Team chemistry on the call.** Do the cofounders interrupt each other? Talk over each other? Disagree openly and resolve it? Reviewers watch how the team functions together, beyond what is said. Clear role division helps. A B2B team without a sales-oriented founder reads as incomplete.
+
+### Common mistakes Speedrun flags
+
+- Burying strong signals at the end of the application. Traction, significant customers, or unusual team credentials belong early, not in the last field.
+- Product demo without the underlying problem. A demo by itself reads as "we built a thing" rather than "we solved something".
+- Inflated top-down TAM. Same issue as other programs.
+- Missing team narrative. Who specifically can do this, and why.
+- Pitches that could belong to ten other companies. If the one-sentence description is not distinctive, sharpen it.
+- Typos and visible sloppiness. Signals the founder is not careful.
+
+### What Speedrun wants to see that is often missed
+
+- Named validation. Design partners, advisor relationships, or customer conversations with people whose names carry weight in the space.
+- Clear near-term priorities. What you are doing in the next three months. What hires. What metrics.
+- Evidence of work outside the startup. Side projects, unusual accomplishments, or signals of capability that do not fit a resume.
+- Strong online presence where it matters for the category (Twitter, GitHub, writing, video).
+
+---
+
 ## Programs not covered
 
 The guidance in `questions.md` applies to any program. If the founder is applying to PearX, Character Labs, Canopy, or another accelerator or pre-accelerator, use the general principles.

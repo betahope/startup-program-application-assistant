@@ -100,6 +100,8 @@ Lead with the answer in the first sentence. No wind-up. No context-setting. No "
 
 Structure each answer like a news article, not an academic essay. Start with the conclusion, follow with the proof. If there is $500k in revenue to mention, that belongs in the first sentence, not the last.
 
+If you want a named structure to write against, the Minto Pyramid (lead with the conclusion, then the supporting reasoning grouped logically) and SCQA (situation, complication, question, answer) both work well. SCQA fits problem-framing answers. Minto fits everything else. Both are compatible with the inverted pyramid.
+
 After drafting, cut every word that does not earn its place. Print it out and cross out what is not needed. You will usually cut 30 to 50 percent.
 
 ### Be specific, not generic
@@ -158,6 +160,7 @@ The core principles above apply to every program. When a founder names a specifi
 
 - **Y Combinator**: what YC readers look for in the first 20 seconds, the weight placed on technical talent, the importance of the "impressive achievement" question, the wildcard question, how interviews work, the reapply-after-feedback loop
 - **Techstars**: the emphasis on bottom-up TAM, the structure of the target audience question, the specific framing of the "why now" and "customer acquisition" questions
+- **a16z Speedrun**: cofounder history as a signal, the velocity and traction-quality hierarchy, earned insight over obvious opportunity, idea-maze depth, company-building beyond the product, and what the interview rewards
 
 Do not invent program-specific guidance for programs not covered in the reference file. If a founder asks about a program we do not have notes on, apply the general principles and say that program-specific patterns for that one are not in the skill.
 
