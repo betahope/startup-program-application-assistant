@@ -10,6 +10,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [3.4.0] - 2026-05-05
+
+Release automation. Tagged releases now publish a downloadable skill bundle so users can grab a clean zip instead of cloning the repo.
+
+### Added
+- `.github/workflows/release.yml` GitHub Actions workflow. On any tag push matching `v*`, builds a zip containing `SKILL.md`, `LICENSE`, `README.md`, and `references/` (under a top-level `startup-application-coach/` folder so it unzips cleanly into `~/.claude/skills/`) and attaches it to the GitHub Release for that tag.
+
+---
+
 ## [3.3.0] - 2026-05-05
 
 Additions drawn from a16z Speedrun's published article "What we look for in applications" (https://speedrun.substack.com/p/what-we-look-for-in-applications). Speedrun-specific points went into the program-specific reference; cross-cutting principles went into `SKILL.md` and `references/questions.md`.

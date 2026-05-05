@@ -1,0 +1,39 @@
+name: Release skill bundle
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build skill zip
+        run: |
+          mkdir -p dist/startup-application-coach
+          cp SKILL.md LICENSE README.md dist/startup-application-coach/
+          cp -r references dist/startup-application-coach/
+          cd dist
+          zip -r "../startup-application-coach-${GITHUB_REF_NAME}.zip" startup-application-coach
+
+      - name: Attach skill bundle to release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # pacp creates the release via `gh release create`; wait briefly
+          # in case this workflow fires before the release record exists.
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+              break
+            fi
+            sleep 3
+          done
+          gh release upload "$GITHUB_REF_NAME" \
+            "startup-application-coach-${GITHUB_REF_NAME}.zip" \
+            --clobber
