@@ -48,9 +48,11 @@ It also includes a bundled humanizer guide to strip AI writing patterns out of a
 
 ## How to install
 
+Each release publishes a clean install zip on the [Releases page](https://github.com/betahope/startup-application-coach/releases/latest). The zip is named `startup-application-coach-vX.Y.Z.zip` and is listed under **Assets** at the bottom of the release. Use that zip rather than cloning the repo — it contains only the files the skill needs.
+
 ### On Claude.ai (Pro, Team, or Enterprise plans)
 
-1. Download this repository as a ZIP file (click the green "Code" button at the top of this page, then "Download ZIP").
+1. Open the [latest release](https://github.com/betahope/startup-application-coach/releases/latest), scroll to **Assets**, and download `startup-application-coach-vX.Y.Z.zip`.
 2. Unzip it on your computer. You should see a folder called `startup-application-coach` with `SKILL.md` inside it.
 3. Go to [claude.ai](https://claude.ai). Open **Customize** from the top of the sidebar, then select **Skills**.
 4. Click **Upload skill**. Select the `startup-application-coach` folder.
@@ -60,17 +62,19 @@ Note: Skills are personal to your Claude account. If you want teammates to use i
 
 ### In Claude Code
 
-Copy the `startup-application-coach` folder into your personal skills directory:
+1. Open the [latest release](https://github.com/betahope/startup-application-coach/releases/latest), scroll to **Assets**, and download `startup-application-coach-vX.Y.Z.zip`.
+2. Unzip it.
+3. Copy the `startup-application-coach` folder into your personal skills directory:
 
-```bash
-cp -r startup-application-coach ~/.claude/skills/
-```
+   ```bash
+   cp -r startup-application-coach ~/.claude/skills/
+   ```
 
-Or into a project-specific skills directory if you want it scoped to one project:
+   Or into a project-specific skills directory if you want it scoped to one project:
 
-```bash
-cp -r startup-application-coach /your-project/.claude/skills/
-```
+   ```bash
+   cp -r startup-application-coach /your-project/.claude/skills/
+   ```
 
 ---
 
@@ -119,9 +123,9 @@ If you want deeper help on your application, your pitch, your founder story, or 
 
 ## Updates
 
-This skill is maintained here on GitHub. When it gets updated, the latest version will always be at this repository. See [CHANGELOG.md](./CHANGELOG.md) for a history of changes.
+This skill is maintained here on GitHub. The [latest release](https://github.com/betahope/startup-application-coach/releases/latest) is always the version to install. See [CHANGELOG.md](./CHANGELOG.md) for a history of changes.
 
-If you want the latest version, download the repo again and re-install. Claude does not auto-update installed skills, so you will need to re-install to get updates.
+Claude does not auto-update installed skills, so to pick up an update, download the latest release zip and re-install over the previous version.
 
 ---
 

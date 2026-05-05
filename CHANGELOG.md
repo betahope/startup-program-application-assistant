@@ -10,6 +10,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [3.4.1] - 2026-05-05
+
+### Changed
+- `README.md` install instructions point to the GitHub Releases page (`Assets` section of the latest release) for the install zip, instead of the repo's green "Code > Download ZIP" button. The release zip contains only the skill files (`SKILL.md`, `LICENSE`, `README.md`, `references/`) under a top-level `startup-application-coach/` folder, which is cleaner than the full repo download.
+- `README.md` "Updates" section points to the Releases page as the canonical source for new versions.
+
+---
+
 ## [3.4.0] - 2026-05-05
 
 Release automation. Tagged releases now publish a downloadable skill bundle so users can grab a clean zip instead of cloning the repo.
