@@ -44,7 +44,7 @@ Follows [Keep a Changelog](https://keepachangelog.com/) + SemVer, per `CHANGELOG
 - **MINOR** — new content (new questions, programs, reference files).
 - **PATCH** — fixes, clarifications, typos.
 
-When making a release-worthy change, add a dated entry to `CHANGELOG.md` under the new version heading. Current released version: `3.2.0` (2026-04-21).
+When making a release-worthy change, add a dated entry to `CHANGELOG.md` under the new version heading. Current released version: `3.3.0` (2026-05-05).
 
 ## Testing changes
 

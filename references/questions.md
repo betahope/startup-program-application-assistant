@@ -102,6 +102,8 @@ This is compatible with the inverted-pyramid guidance in `SKILL.md`: lead with t
 
 **Important:** No traction is OK at very early stages. Many accepted startups have none. Do not invent traction. If you do not have it, say so and focus on what evidence of demand you do have, even if that is qualitative.
 
+**Willingness-to-pay conversations count as traction at the early stages.** A handful of qualified conversations where a buyer told you what they would pay, what they would not, and what would make them switch is a stronger signal than a long list of free signups. Name the people you spoke with where you can. "We spoke with the heads of operations at three regional hospital chains, all of whom said they would pay $X for Y once we can prove Z" beats "we did customer development."
+
 ---
 
 ## How do you make money, and how much could you make?
@@ -178,6 +180,8 @@ The more specific, the better. This is your Ideal Customer Profile.
 - Pretending ChatGPT, Excel, or "doing nothing" are not competitors when they are
 
 **Including both large companies and new startups matters.** A program wants to see that you have considered the full landscape.
+
+**Bonus signal: have you met the players?** Beyond listing competitors, having actually spoken with operators, founders, and analysts in the space is a strong signal that you have done the work. Reviewers can usually tell the difference between a competitor list assembled from a Google search and one assembled from real conversations. Where you have those conversations, name them.
 
 ---
 

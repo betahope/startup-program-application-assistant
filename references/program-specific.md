@@ -139,7 +139,7 @@ The Techstars guide emphasises two things worth borrowing:
 
 ### How Speedrun reads applications
 
-Speedrun receives many thousands of applications per cycle and advances a small fraction. Reviewers read fast and decide fast. Strong signals that sit at the bottom of an application often go unread. Lead with them.
+Speedrun receives many thousands of applications per cycle and advances a small fraction. The most recent published cycle (SR006) accepted under 0.4% of more than 19,000 applicants. Reviewers read fast and decide fast. Strong signals that sit at the bottom of an application often go unread. Lead with them.
 
 ### What Speedrun specifically weighs
 
@@ -155,7 +155,11 @@ Where you are on the ladder matters. Showing movement up the ladder matters more
 
 **Earned insight over obvious opportunity.** "We are building X for Y" where X and Y are obvious market categories is a weak signal. An earned insight (something you learned by working in the space, talking to users, or building v1) is a strong signal. If the idea is obvious, the question the reader has is why it has not already been built. Answer it.
 
-**Deep idea-maze exploration.** Speedrun wants to see that you can explain why prior and current attempts at this idea failed or will fail. "We are better designed" is not an explanation. Actual reasons are. The failure modes of music discovery apps, social networks for a specific niche, or dating apps with a twist are well known. If you are entering a crowded category, show you have walked the maze.
+**Truth-seeking, not performed certainty.** Speedrun reviewers explicitly look for founders who are obsessed with figuring out whether or not the company should exist. That is different from sounding certain. It means actively looking for evidence that would disprove the idea, and being honest about what you have found. Founders who can articulate why their idea might not work, and what they are doing to test it, come across stronger than founders who only present the case for their company.
+
+**Validation depth, not vanity counts.** A small customer count is not automatically a weak signal. A handful of qualified willingness-to-pay conversations with the right people can outweigh a long list of free signups. Speedrun reviewers also pay attention to whether you have met the operators and decision-makers in your industry. "We have spoken with three founders running companies in this space and two heads of operations at potential customers" is stronger than "we have done customer interviews."
+
+**Deep idea-maze exploration and competitor articulation.** Speedrun wants to see that you can explain why prior and current attempts at this idea failed or will fail. "We are better designed" is not an explanation. Actual reasons are. For each meaningful competitor, name the structural reason they will hit a brick wall: a wrong assumption in their architecture, a wrong customer they have committed to, a moat in the wrong place. The failure modes of music discovery apps, social networks for a specific niche, or dating apps with a twist are well known. If you are entering a crowded category, show you have walked the maze.
 
 **Company-building beyond the product.** Technical founders especially should show they are thinking about first hires, culture, the sales motion for a B2B product, and the fundraising path. A good product with a thin team-building plan reads worse than a good product with a clear company-building plan.
 
@@ -169,7 +173,9 @@ If invited to an interview, the specific things Speedrun pays attention to:
 
 **Short decks.** Five to ten slides, large fonts, one idea per slide. Dense slides read as a sign the founder cannot compress the thing.
 
-**Team chemistry on the call.** Do the cofounders interrupt each other? Talk over each other? Disagree openly and resolve it? Reviewers watch how the team functions together, beyond what is said. Clear role division helps. A B2B team without a sales-oriented founder reads as incomplete.
+**Team chemistry on the call.** Do the cofounders interrupt each other? Talk over each other? Disagree openly and resolve it? Reviewers watch how the team functions together, beyond what is said. Clear role division helps. A B2B team without a sales-oriented founder reads as incomplete. Expect questions about hard decisions you have made as a team and how you made them. Reviewers use these to probe whether cofounders have worked through real conflict, or just get along on paper.
+
+**Team narrative with conviction.** Any given Speedrun decision is held against dozens of other strong teams in the same review. The team narrative has to give the reader something specific to believe in. Vague self-description ("hard-working", "passionate") is the opposite of what works. Be matter of fact about what each founder has actually done, why that makes them the right person for this specific company, and what evidence backs it up.
 
 ### Common mistakes Speedrun flags
 
@@ -179,6 +185,7 @@ If invited to an interview, the specific things Speedrun pays attention to:
 - Missing team narrative. Who specifically can do this, and why.
 - Pitches that could belong to ten other companies. If the one-sentence description is not distinctive, sharpen it.
 - Typos and visible sloppiness. Signals the founder is not careful.
+- Outdated or missing LinkedIn profiles. Reviewers click through to verify team claims. A founder claim of "former product lead at X" with no LinkedIn record reads as a red flag.
 
 ### What Speedrun wants to see that is often missed
 
@@ -186,6 +193,8 @@ If invited to an interview, the specific things Speedrun pays attention to:
 - Clear near-term priorities. What you are doing in the next three months. What hires. What metrics.
 - Evidence of work outside the startup. Side projects, unusual accomplishments, or signals of capability that do not fit a resume.
 - Strong online presence where it matters for the category (Twitter, GitHub, writing, video).
+- Anticipated questions. Reviewers form predictable questions as they read. How big is this market really. Why has nobody done this already. Who specifically is the buyer. Strong applications answer those questions inside the application itself, rather than leaving them for the interview.
+- Speedrun's stated rule on AI usage. Their public guidance: the unique framing of the space, the market, and the opportunity should come from the founder. The validation should come from the founder. AI can help with brevity and language polish, but not with the insight itself. Applications that read as if AI generated the framing are a negative signal.
 
 ---
 

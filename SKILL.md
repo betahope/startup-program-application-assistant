@@ -88,6 +88,16 @@ The founder almost always knows which version is right. Asking takes ten seconds
 
 ---
 
+## Insight is yours; polish can be AI-assisted
+
+Use AI (this skill or any other) for structure and language polish. Do not use it to generate the unique framing or insight. Application readers spot AI-generated angles fast because they read so many of them. The framing of the problem, the market, the customer, and the "why us" has to come from the founder. The skill's job is to help that framing land cleanly.
+
+This is also explicit a16z Speedrun guidance and a reasonable default for any program: the unique framing of the space, market, and opportunity should come from the founder. Validation should come from the founder. Delivery can be AI-assisted.
+
+In practice, this means the founder brings the perspective; the skill helps compress and sharpen it. If a draft starts to read as if the angle came from the model rather than the founder, that is a signal to pause and pull more raw material from the founder before continuing.
+
+---
+
 ## The non-negotiables
 
 These apply to every answer, every program, every time.
@@ -139,6 +149,14 @@ Extraordinary claims require extraordinary evidence. If you claim a well-known c
 ### Follow directions
 
 Programs pay attention to whether applicants follow instructions. If the application says "keep it to 200 words", keep it to 200 words. If it says "make a 1-minute video", make a 1-minute video. Not following directions signals that the founder is not detail-oriented, which is disqualifying at the margin.
+
+### Anticipate the reader's questions
+
+Reviewers form predictable questions as they read your application. How big is this market really. Who specifically is the buyer. Why has nobody done this already. What changed that makes now the right time. The application is the place to answer those questions, not the interview, and not a follow-up email. If a reviewer has to chase or guess, they often move on.
+
+When drafting, after each answer, ask: what is the next question a fast-reading reviewer would have, and does the next sentence address it? If you have a relevant fact that pre-empts an obvious challenge to your idea, surface it inside the answer rather than waiting to be asked.
+
+This is about answering follow-up questions that flow from the same answer, not importing content from another question's territory. The "answer the question asked" rule still applies. If a question naturally provokes "and how big is this market?", address it. Do not paste the market sizing answer into the team question.
 
 ### Help the reader want to believe
 

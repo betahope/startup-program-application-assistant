@@ -10,6 +10,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/). Versions
 
 ---
 
+## [3.3.0] - 2026-05-05
+
+Additions drawn from a16z Speedrun's published article "What we look for in applications" (https://speedrun.substack.com/p/what-we-look-for-in-applications). Speedrun-specific points went into the program-specific reference; cross-cutting principles went into `SKILL.md` and `references/questions.md`.
+
+### Added
+- a16z Speedrun additions in `references/program-specific.md`:
+  - Concrete selectivity figure for SR006 (under 0.4% of more than 19,000 applicants).
+  - "Truth-seeking over conviction theatre" as a Speedrun signal.
+  - "Validation depth, not vanity counts": willingness-to-pay conversations and having met operators in the industry.
+  - "Articulate why every competitor will hit a brick wall" folded into the existing idea-maze bullet, with concrete examples of structural failure modes.
+  - "What is a really hard decision you have had to make together?" added as a specific Speedrun interview question for cofounder chemistry.
+  - "Team narrative with conviction" reflecting Speedrun's stated framing on why team self-description has to give the reader something specific to believe in.
+  - Outdated or missing LinkedIn profiles added to common mistakes.
+  - Anticipated questions and Speedrun's stated AI usage rule added to the "often missed" bullets.
+- Cross-cutting additions in `SKILL.md`:
+  - "Insight is yours; polish can be AI-assisted" top-level section, drawing on Speedrun's stated rule and applying it as a default for any program.
+  - "Anticipate the reader's questions" non-negotiable in the principles list.
+- Cross-cutting additions in `references/questions.md`:
+  - Willingness-to-pay conversations called out as a valid traction signal at early stages.
+  - "Have you met the players?" research-depth note added to the competitors section.
+
+---
+
 ## [3.2.0] - 2026-04-21
 
 Additions drawn from a16z Speedrun's published guidance on what they look for in applications, treated as Speedrun's general guideline rather than specific to any one batch.
